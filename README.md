@@ -2,9 +2,7 @@
 
 ## Introduction
 
-IEPDYN is a theoretical and computational framework based on an integral-equation formalism for population dynamics.  
-It enables the analysis of state-to-state transitions and time evolution in molecular systems by connecting statistical-mechanical descriptions with dynamical observables.  
-The method provides a systematic approach to extract kinetic information from molecular simulation data without explicitly sampling rare-event trajectories.  
+IEPDYN is a theoretical and computational framework based on an integral-equation formalism for population dynamics. The method provides a systematic approach to extract kinetic information from molecular simulation data without explicitly sampling rare-event trajectories.  
 
 For more details, see:  
 - K. Kasahara, R. Okabe, C. A. Chang, T. Mori, and N. Matubayasi, *J. Chem. Phys.* (in press)
