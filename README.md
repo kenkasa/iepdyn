@@ -77,7 +77,7 @@ product_state_ids    = 1       ! Product (absorbing) state IDs
 -500.0 -16.0  0.5 ! State 1 (weight of 0.5)
  -16.0 -15.0  0.5 ! State 2 (weight of 0.5)
  -15.0  -2.0  0.0 ! State 3
--2.0 500.0    0.0 ! State 4
+  -2.0 500.0  0.0 ! State 4
 /
 ```
 An interactive Python script for generating input files ``iepdyn_setup.py`` is bundled in this repository.
