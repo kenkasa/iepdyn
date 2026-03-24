@@ -60,17 +60,17 @@ use_reflection_state = .false. ! define reflection state or not
 use_product_state    = .false. ! define product (absorbing) state or not
 calc_steady          = .false. ! calculate steady-state (equilibrium) populations or not
 calc_Pint            = .false. ! calculate time integral of Pj analytically or not
-nstate               = 4 ! # of states
-ndim                 = 1 ! # of dimensions.
-nmol                 = 1 ! # of target molecules (typically 1)
-dt                   = 0.1d0 ! Time grid
-t_sparse             = 0.1d0 ! Sparse time-grid (used for computing TCF)
-t_range              = 10.0 ! Timescale for computing K-, M-, R-, and P0-functions
-t_extend             = 100.0 ! Extended timescale for outputting P- and Q-functions
-dt_tcfout            = 1.0 ! Time grid for outputting P- and Q-functions
-initial_state_ids    = 1 2 ! Intial state IDs
-reflection_state_ids = 4 ! Reflection state IDs
-product_state_ids    = 1 ! Product (absorbing) state IDs
+nstate               = 4       ! # of states
+ndim                 = 1       ! # of dimensions.
+nmol                 = 1       ! # of target molecules (typically 1)
+dt                   = 0.1d0   ! Time grid
+t_sparse             = 0.1d0   ! Sparse time-grid (used for computing TCF)
+t_range              = 10.0    ! Timescale for computing K-, M-, R-, and P0-functions
+t_extend             = 100.0   ! Extended timescale for outputting P- and Q-functions
+dt_tcfout            = 1.0     ! Time grid for outputting P- and Q-functions
+initial_state_ids    = 1 2     ! Intial state IDs
+reflection_state_ids = 4       ! Reflection state IDs
+product_state_ids    = 1       ! Product (absorbing) state IDs
 /
 
 &state
