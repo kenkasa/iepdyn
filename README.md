@@ -1,3 +1,4 @@
+![IEPDYN](img/IEPDYN_logo.jpg)
 # IEPDYN: Integral-Equation formalism of Population Dynamics
 
 ## Introduction
