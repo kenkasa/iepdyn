@@ -1,9 +1,8 @@
 ![IEPDYN](img/IEPDYN_logo.jpg)
-# IEPDYN: Integral-Equation formalism of Population Dynamics
 
 ## Introduction
 
-IEPDYN is a theoretical and computational framework based on an integral-equation formalism for population dynamics. The method provides a systematic approach to extract kinetic information from molecular simulation data without explicitly sampling rare-event trajectories.  
+**IEPDYN (Integral-Equation formalism of Population DYNamics)** is a theoretical and computational framework based on an integral-equation formalism for population dynamics. The method provides a systematic approach to extract kinetic information from molecular simulation data without explicitly sampling rare-event trajectories.  
 
 For more details, see:  
 - K. Kasahara, R. Okabe, C. A. Chang, T. Mori, and N. Matubayasi, *J. Chem. Phys.* (in press)
