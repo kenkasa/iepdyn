@@ -1,5 +1,8 @@
 # IEPDYN: Integral-Equation formalism of Population DYNamics
 
+**Important Note: The IEPDYN program has been integrated into the ANAlyzing TRAjectories (ANATRA) package. Users are strongly encouraged to use ANATRA for the latest version and updates.**
+- https://github.com/kenkasa/anatra
+
 ## Introduction
 
 **IEPDYN (Integral-Equation formalism of Population DYNamics)** is an MD-based method that provides a systematic approach to extract kinetic information from molecular simulation data without explicitly sampling rare-event trajectories.  
